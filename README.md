@@ -1,6 +1,4 @@
-# python-challenge
-This is My bootcamp assignment 3, python challenge
- # PyBank
+
 
 This Python script analyzes the financial data of a company over a period. The data is stored in a CSV file named `budget_data.csv`. The script calculates the total months, total profit/loss, average change, greatest increase in profits, and greatest decrease in profits. The results are printed to the terminal and written to a text file named `financial_analysis.txt`.
 
